@@ -1,5 +1,5 @@
 # ICMP Pinger:
-Built a ping application using the ICMP protocol.
+A ping application implemented using the ICMP protocol.
 
 # Technologies Used:
 Python and Socket module.
